@@ -1,14 +1,8 @@
-# HackInfinity23
-HackInfinity'23 organized by DCEI
-
-### Team Details: DeepMinds
-* Dhruv Shah
+### Team Details
+* Vatsal Shah
 * Pranav Patel
-* Pathik Patel
-* Manjal Shah
-* Nisarg Suthar
 
-# Real time Bitcoin future price predictor
+# Bitcoin future price predictor
 
 ## Introduction
 You can predict real live BTC/USDT price for next(5min/10min/20min) to get an idea how you should go along with your next trade. Our prediciton model
