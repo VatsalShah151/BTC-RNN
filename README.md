@@ -1,6 +1,6 @@
 ### Team Details
-* Vatsal Shah
-* Pranav Patel
+* 202103022 - Vatsal Shah
+* 202103040 - Pranav Patel
 
 # Bitcoin future price predictor
 
